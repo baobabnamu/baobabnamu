@@ -4,8 +4,7 @@
 
 Nice Day! I'm Jaehwan Kim, a Korea Polytechnic University Student from South Korea.
 
-- :fireworks: I'm currently working on MS PowerPlatform Developer
-- :running: I'm currently learning Python & Javascript
+- :running: I'm currently learning Java & Javascript
 - :sunrise: I'm Interested in Backend Developer
 
 Thx :)
