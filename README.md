@@ -4,7 +4,7 @@
 
 Nice Day! I'm Jaehwan Kim, a Korea Polytechnic University Student from South Korea.
 
-- :running: I'm currently learning Java & Javascript
+- :running: I'm currently learning Python & JavaScript & Java & HTML/CSS
 - :sunrise: I'm Interested in Backend Developer
 
 Thx :)
