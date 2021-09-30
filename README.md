@@ -19,8 +19,6 @@ Nice Day! I'm Jaehwan Kim, a Korea Polytechnic University Student from South Kor
 <br />
 <br />
 
-
-
 <div align="center"> 
   
 ### **Github Commit Status (https://github.com/baobabnamu)** <br/> 
@@ -29,12 +27,15 @@ Nice Day! I'm Jaehwan Kim, a Korea Polytechnic University Student from South Kor
  
   <br />
   <br />
-  
-  
-  
+
 ### **Blog Post Status (https://baobab.live)** <br/>
   <a href="https://baobab.live"> ![blograss](https://blograss.vercel.app/api?blog_type=tistory&blog_name=iwantbaobab&grass_color=white&text_color=white&dark_mode=true) </a>
 
+  <br />
+  <br />
+  
+### **Baekjoon Status** <br/>
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=iwantbaobab)](https://solved.ac/iwantbaobab)
 </div>
 
 ***
