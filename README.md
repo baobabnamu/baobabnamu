@@ -16,7 +16,7 @@ Thx :)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baobabnamu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-It's My Blog Post <br/>
+Blog (https://baobab.live)
   ![blograss](https://blograss.vercel.app/api?blog_type=tistory&blog_name=iwantbaobab&grass_color=white&text_color=white&dark_mode=true) 
 
 </div>
