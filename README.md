@@ -13,6 +13,7 @@ Thx :)
 
 [![Baobab's GitHub stats](https://github-readme-stats.vercel.app/api?username=baobabnamu&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baobabnamu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+https://blograss.vercel.app/api?blog_type=tistory&blog_name=blograss&grass_color=black&text_color=black&dark_mode=false
 
 <!--
 **baobabnamu/baobabnamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
