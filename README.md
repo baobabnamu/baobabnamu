@@ -4,7 +4,7 @@
 
 Nice Day! I'm Jaehwan Kim, a Korea Polytechnic University Student from South Korea.
   
-- 🔭 I’m currently working on Counselor
+- 🔭 I’m currently working on Microsoft 365 Counselor
 - :running: I'm currently learning Python & JavaScript & Java & HTML/CSS
 - :sunrise: I'm Interested in Backend Developer
 
@@ -13,7 +13,8 @@ Thx :)
 
 [![Baobab's GitHub stats](https://github-readme-stats.vercel.app/api?username=baobabnamu&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baobabnamu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![blograss](https://blograss.vercel.app/api?blog_type=tistory&blog_name=iwantbaobaba&grass_color=white&text_color=white&dark_mode=true)
+
+![blograss](https://blograss.vercel.app/api?blog_type=tistory&blog_name=iwantbaobab&grass_color=white&text_color=white&dark_mode=true)
 
 <!--
 **baobabnamu/baobabnamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
