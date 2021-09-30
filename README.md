@@ -1,5 +1,7 @@
 # Hi There! :wave:
 
+***
+
 <div align="center"> 
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaobabnamu%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -28,11 +30,14 @@ Nice Day! I'm Jaehwan Kim, a Korea Polytechnic University Student from South Kor
   <br />
   <br />
   
+  
+  
 ### **Blog Post Status (https://baobab.live)** <br/>
   <a href="https://baobab.live"> ![blograss](https://blograss.vercel.app/api?blog_type=tistory&blog_name=iwantbaobab&grass_color=white&text_color=white&dark_mode=true) </a>
 
 </div>
 
+***
 
 <!--
 **baobabnamu/baobabnamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
