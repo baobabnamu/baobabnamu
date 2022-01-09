@@ -10,9 +10,9 @@ Nice Day! I'm Jaehwan Kim, a Korea Polytechnic University Student from South Kor
   
 </div>
   
-- 🔭 I’m currently working on Microsoft 365 Counselor
-- :running: I'm currently learning Python & JavaScript & Java & HTML/CSS
-- :sunrise: I'm Interested in Backend Developer
+- 🔭 I’m currently working on Microsoft 365 Support Engineer
+- :running: I'm currently learning Python & JavaScript & HTML/CSS
+- :sunrise: I'm Interested in Frontend Developer
 
 <div align="center"> Thx :) </div>
 
