@@ -11,8 +11,8 @@ Nice Day! I'm Jaehwan Kim, a Korea Polytechnic University Student from South Kor
 </div>
   
 - 🔭 I’m currently working on Microsoft 365 Support Engineer
-- :running: I'm currently learning JavaScript & HTML/CSS
-- :sunrise: I'm Interested in Frontend Developer
+- :running: I'm currently learning Docker & Kubernetes
+- :sunrise: I'm Interested in Backend Developer
 
 <div align="center"> Thx :) </div>
 
@@ -28,17 +28,17 @@ Nice Day! I'm Jaehwan Kim, a Korea Polytechnic University Student from South Kor
   <br />
   <br />
 
-### **Blog Post Status (https://baobab.live)** <br/>
+<!-- ### **Blog Post Status (https://baobab.live)** <br/>
   <a href="https://baobab.live"> ![blograss](https://blograss.vercel.app/api?blog_type=tistory&blog_name=iwantbaobab&grass_color=white&text_color=white&dark_mode=true) </a>
 
   <br />
-  <br />
+  <br /> -->
   
-### **Baekjoon Status** <br/>
+<!-- ### **Baekjoon Status** <br/>
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=iwantbaobab)](https://solved.ac/iwantbaobab)
 </div>
 
-***
+*** -->
 
 <!--
 **baobabnamu/baobabnamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
