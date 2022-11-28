@@ -8,7 +8,7 @@ Nice Day! I'm Jaehwan Kim, a Tech University Of Korea Student from South Korea.
 </div>
   
 - 🔭 I’m currently working on Microsoft 365 Support Engineer
-- :running: I'm currently learning Docker & Kubernetes
+- :running: I'm currently learning Java & Spring
 - :sunrise: I'm Interested in Backend Developer
 
 <div align="center"> Thx :) </div>
