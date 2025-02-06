@@ -3,13 +3,13 @@
 <div align="center"> 
 
 
-Nice Day! I'm Jaehwan Kim, a Information Protection Soldier in the Republic of Korea Air Force.
+Nice Day! I'm Jaehwan Kim
   
 </div>
   
-- 🔭 I’m currently working on Information Protection Soldier in the Republic of Korea Air Force.
-- :running: I'm currently learning Computer Science.
-- :sunrise: I'm Interested in Backend Developer.
+- 🔭 I'm looking for job in cloud engineer
+- :running: I'm currently learning DevOps Tech
+- :sunrise: I'm Interested in IaC
 
 <div align="center"> Thx :) </div>
 
