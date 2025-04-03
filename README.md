@@ -8,7 +8,7 @@ Nice Day! I'm Jaehwan Kim
 </div>
   
 - 🔭 I'm looking for job in cloud engineer
-- :running: I'm currently learning DevOps Tech
+- :running: I'm currently learning Cloud Tech
 - :sunrise: I'm Interested in IaC
 
 <div align="center"> Thx :) </div>
