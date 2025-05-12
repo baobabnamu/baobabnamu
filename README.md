@@ -2,16 +2,13 @@
 
 <div align="center"> 
 
-
-Nice Day! I'm Jaehwan Kim
+Nice Day! I'm Jaehwan Kim 
   
+🔭 I'm Looking for Cloud Engineer Job
+
 </div>
-  
-- 🔭 I'm looking for job in cloud engineer
-- :running: I'm currently learning Cloud Tech
-- :sunrise: I'm Interested in IaC
 
-<div align="center"> Thx :) </div>
+<div align="center"> Thanks :) </div>
 
 <br />
 <br />
@@ -20,7 +17,8 @@ Nice Day! I'm Jaehwan Kim
 
 |Github Commit Status|Most Used Language|
 |---|---|
-|[![Baobab's GitHub stats](https://github-readme-stats.vercel.app/api?username=baobabnamu&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baobabnamu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|
+|[![Baobab's GitHub stats](https://github-readme-stats.vercel.app/api?username=baobabnamu&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baobabnamu&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|
+
   <br />
   <br />
 
