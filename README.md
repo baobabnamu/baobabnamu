@@ -24,6 +24,7 @@ I'm open to networking with anyone, regardless of nationality.
     
 ### 🛠 Main Skills
 - **Lang**
+  - Javascript
   - Python
   - Bash
 - **IaC**
