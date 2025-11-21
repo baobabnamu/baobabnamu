@@ -24,9 +24,9 @@ I'm open to networking with anyone, regardless of nationality.
     
 ### 🛠 Main Skills
 - **Lang**
-  - Javascript
   - Python
   - Bash
+  - Javascript / Typescript
 - **IaC**
   - Terraform
   - Ansible
