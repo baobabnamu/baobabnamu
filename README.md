@@ -3,12 +3,6 @@ Hello Guys, I'm Jaehwan Kim, a System Engineer At [Gabia](https://company.gabia.
 You can call me "Hwan" or "Bao", or we can even make our own nickname just for us.  
 I'm open to networking with anyone, regardless of nationality.  
 
----  
-
-|Github Commit Status|Most Used Language|
-|---|---|
-|[![Baobab's GitHub stats](https://github-readme-stats.vercel.app/api?username=baobabnamu&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baobabnamu&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|
-
 ---
 
 ### 💻 Works
